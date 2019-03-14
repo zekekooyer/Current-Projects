@@ -12,6 +12,7 @@ h2 {
   line-height: 48px;
   text-align: center;
   border: 1px dotted red;
+  border-radius: 100%;
 }
 
 h3 {
